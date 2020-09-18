@@ -1,0 +1,1 @@
+#for fast crypto check
