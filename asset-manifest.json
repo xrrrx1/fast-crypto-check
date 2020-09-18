@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/fast-crypto-check/static/js/main.db8fa40d.chunk.js",
+    "main.js.map": "/fast-crypto-check/static/js/main.db8fa40d.chunk.js.map",
+    "runtime-main.js": "/fast-crypto-check/static/js/runtime-main.ba54a151.js",
+    "runtime-main.js.map": "/fast-crypto-check/static/js/runtime-main.ba54a151.js.map",
+    "static/js/2.ac496640.chunk.js": "/fast-crypto-check/static/js/2.ac496640.chunk.js",
+    "static/js/2.ac496640.chunk.js.map": "/fast-crypto-check/static/js/2.ac496640.chunk.js.map",
+    "index.html": "/fast-crypto-check/index.html",
+    "precache-manifest.4d57b401b35eaff8f9312b506a6eb6f6.js": "/fast-crypto-check/precache-manifest.4d57b401b35eaff8f9312b506a6eb6f6.js",
+    "service-worker.js": "/fast-crypto-check/service-worker.js",
+    "static/js/2.ac496640.chunk.js.LICENSE.txt": "/fast-crypto-check/static/js/2.ac496640.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba54a151.js",
+    "static/js/2.ac496640.chunk.js",
+    "static/js/main.db8fa40d.chunk.js"
+  ]
+}
