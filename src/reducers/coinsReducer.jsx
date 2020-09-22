@@ -1,7 +1,7 @@
 import { COINS_RECEIVE, COINS_REQUEST } from "../constants";
 
 const initialState = {
-  coins: [1, 2, 3],
+  coins: [],
   isLoading: false,
   hasData: false,
 };

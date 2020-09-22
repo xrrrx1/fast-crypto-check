@@ -7,6 +7,7 @@ import PageNotFound from "../../components/PageNotFound/PageNotFound";
 import AltsPage from "../AltsPage/AltsPage";
 import BnbPage from "../BnbPage/BnbPage";
 import BtcPage from "../BtcPage/BtcPage";
+import TestWSpage from "../TestWSpage/TestWSpage";
 import UsdPage from "../UsdPage/UsdPage";
 
 const HeaderContainer = styled.div`
@@ -33,6 +34,7 @@ function App() {
               <LinkButton to="/bnb" label="BNB" />
               <LinkButton to="/alts" label="ALTS" />
               <LinkButton to="/usd" label="USD" />
+              <LinkButton to="/testws" label="WS" />
             </ButtonsContainer>
           </header>
         </HeaderContainer>
@@ -43,6 +45,7 @@ function App() {
             <Route path="/bnb" component={BnbPage} />
             <Route path="/alts" component={AltsPage} />
             <Route path="/usd" component={UsdPage} />
+            <Route path="/testws" component={TestWSpage} />
             <Route path="*" component={PageNotFound} />
           </Switch>
         </Content>
